@@ -1,0 +1,36 @@
+{
+  "node": {
+    "97cd058d213a7389f683f72216b71d002d31475a": {
+      "workers": {
+        "app/(default)/[...path]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%5D&__client_imported__=true!",
+        "app/(default)/static/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(default)/[...path]/page": "action-browser",
+        "app/(default)/static/page": "action-browser"
+      }
+    },
+    "e8ead5db913872a911a683b7b731d1c67253b44c": {
+      "workers": {
+        "app/(default)/[...path]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%5D&__client_imported__=true!",
+        "app/(default)/static/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(default)/[...path]/page": "action-browser",
+        "app/(default)/static/page": "action-browser"
+      }
+    },
+    "c24f797033f0a9efd76169a5819d84dfe595c6a8": {
+      "workers": {
+        "app/(default)/[...path]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%5D&__client_imported__=true!",
+        "app/(default)/static/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-card%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22addToCart%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cheader%5C%5Cquick-search%5C%5C_actions%5C%5Cget-search-results.ts%22%2C%5B%22getSearchResults%22%5D%5D%2C%5B%22D%3A%5C%5Cbelami-poc%5C%5Ccomponents%5C%5Cproduct-form%5C%5C_actions%5C%5Cadd-to-cart.ts%22%2C%5B%22handleAddToCart%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(default)/[...path]/page": "action-browser",
+        "app/(default)/static/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "EUyv+WmUFNSrH2ItIJZ78BF/BBuH8KHcI3+Nt/Busgw="
+}
